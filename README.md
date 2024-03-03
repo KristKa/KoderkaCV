@@ -1,7 +1,5 @@
 # KoderkaCV
-Repository pro první povinný úkol
-ZADÁNÍ:
-Vytvoř HTML stránku se svým "životopisem".
+Repository pro první povinný úkol - Vytvoř HTML stránku se svým "životopisem".
 
 Nemusí jít vyloženě o formální životopis - můžeš vytvořit stránku, kde napíšeš něco o sobě, o svých zájmech, o práci. Klidně ale vytvoř opravdový životopis - hodí se mít ho online ve webové podobě, protože pak odkaz na něj můžeš komukoliv poslat, když ho budeš potřebovat.
 
